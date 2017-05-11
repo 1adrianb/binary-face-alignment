@@ -35,7 +35,7 @@ Install the modified optnet package
 cd optimize-net/; luarocks make rocks/optnet-scm-1.rockspec; cd ..;
 ```
 
-Run the following command to prepare the files required by the demo. This will download 10 images from the MPII dataset alongside the dataset structure converted to .t7
+Run the following command to prepare the files required by the demo. This will download the AFLW2000-3D dataset alongside the converted dataset structure.
 ```bash
 th download-content.lua
 ```
