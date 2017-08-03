@@ -21,7 +21,7 @@ For the human pose estimation demo please see [https://github.com/1adrianb/binar
 ## Setup
 Clone the github repository
 ```bash
-git clone https://github.com/1adrianb/binary-human-pose-estimation --recursive
+git clone https://github.com/1adrianb/binary-face-alignment --recursive
 cd binary-human-pose-estimation
 ```
 
