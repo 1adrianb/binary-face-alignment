@@ -48,6 +48,7 @@ th download-content.lua
 
 In order to run the demo simply type:
 ```bash
+mkdir models && wget https://www.adrianbulat.com/downloads/BinaryHumanPose/facealignment_binary_aflw.t7 -O models/facealignment_binary_aflw.t7
 th main.lua
 ```
 
