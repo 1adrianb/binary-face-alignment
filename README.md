@@ -18,11 +18,15 @@ For the human pose estimation demo please see [https://github.com/1adrianb/binar
 - [cURL](https://github.com/Lua-cURL/Lua-cURLv3)
 - [paths](https://github.com/torch/paths)
 
+```bash
+for pkg in cutorch nn cudnn xlua image gnuplot lua-cURL paths; do luarocks install ${pkg}; done
+```
+
 ## Setup
 Clone the github repository
 ```bash
 git clone https://github.com/1adrianb/binary-face-alignment --recursive
-cd binary-human-pose-estimation
+cd binary-face-alignment
 ```
 
 Build and install the BinaryConvolution package
