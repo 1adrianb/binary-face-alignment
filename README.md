@@ -4,6 +4,7 @@ This code implements a demo of the Binarized Convolutional Landmark Localizers f
 
 For the human pose estimation demo please see [https://github.com/1adrianb/binary-human-pose-estimation](https://github.com/1adrianb/binary-human-pose-estimation)
 
+**[2021 Update]: PyTorch repo with training code for BNN available here: [https://github.com/1adrianb/binary-networks-pytorch](https://github.com/1adrianb/binary-networks-pytorch)**
 
 ## Requirements
 - Install the latest [Torch7](http://torch.ch/docs/getting-started.html) version (for Windows, please follow the instructions avaialable [here](https://github.com/torch/distro/blob/master/win-files/README.md))
